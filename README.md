@@ -13,7 +13,12 @@ Things will be updated Step By Step
 
 # Work Flow
 
-#### Work flows will also be updated step by step
+* run templates.py which has the project workflow
+* Create a ipynb file in experiments to test CRUD
+* estimate the libraries and update requirements.txt and requirements_dev.txt
+
+
+#### Work flows will be updated step by step
 
 
 
