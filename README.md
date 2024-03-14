@@ -6,6 +6,11 @@ of each and every important not so obvious topics
 
 Things will be updated Step By Step
 
+![alt text](CRUD.png)
+
+
+
+
 ### ` Reasons of why i am doing this project `:
 * Soldifify and Learn NoSQL Databases like Cassandra and MongoDB
 * Learn and Implement concept of CICD using Github Actions
